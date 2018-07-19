@@ -6,7 +6,7 @@ layout: post
 title: Víc než průhledné výběrové řízení
 author: Martin Sedlák
 authorId: 
-image: posts/radnice_autobus.jpg
+image: moravskatrebova.pirati.cz/assets/img/posts/radnice_autobus.jpg
 ---
 
 Výběrové řízení na novou ředitelku Kulturních služeb města Moravská Třebová? Víc než průhledné.
