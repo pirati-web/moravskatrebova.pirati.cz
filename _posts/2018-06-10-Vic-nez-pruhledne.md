@@ -1,5 +1,5 @@
 ---
-date: 2018-06-26
+date: 2018-06-10
 category: blog
 tags: Moravská Třebová, Kultura
 layout: post
