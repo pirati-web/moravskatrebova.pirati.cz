@@ -6,7 +6,7 @@ layout: post
 title: Moravská Třebová, pusťte nás na ně!
 author: Karsten Sachs
 authorId: 
-image: posts/pirlist_zamek.jpg
+image: posts/radnice_autobus.jpg
 ---
 
 Moravská Třebová, pusťte nás na ně!
