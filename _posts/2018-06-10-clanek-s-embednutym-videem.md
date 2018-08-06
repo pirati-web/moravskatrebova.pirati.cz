@@ -3,7 +3,7 @@ date: 2018-06-01
 category: blog
 tags: piráti Moravská Třebová Volby2018
 layout: post
-title: MOravská Třebová, pusťte nás na ně!
+title: Moravská Třebová, pusťte nás na ně!
 author: Karsten Sachs
 authorId: 
 image: posts/pirlist_zamek.jpg
