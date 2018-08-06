@@ -17,4 +17,4 @@ Máme za cíl přinést pirátské ideály na naši radnici, protože naše měs
 
 Náš přístup k informacím a k zapojení občana do rozhodování obce je diametrálně odlišný než přístup politických stran, které tady působí již od divokých 90. let. Piráti s tímto stylem politiky ani nechtějí být spojování. Zavedení komunální politici u nás nevěří, že by občan měl mít možnost podílet se na rozhodování obce. My si zase myslíme, že by si občané ve veřejné architektonické soutěži nevybrali jako zázemí u Knížecí louky tu předraženou kostku, která tam teď stojí. Posuďte sami, co je lepší volba. 
 
-Karsten Sachs, předseda místního sdružení Svitavsko      
+  
