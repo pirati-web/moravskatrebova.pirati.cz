@@ -20,10 +20,10 @@ main:
     name: Volby 2018
     match: volby2018
     submenu:
-      - link: /volby2018/komunal
+      - link: /volby2018/
         name: Komunální volby
         match: komunal
-      - link: /volby2018/senat
+      - link: /volby2018/
         name: Senát
         match: senat
 
