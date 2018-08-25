@@ -16,14 +16,14 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+  - link: /volby2018/
+    name: Volby 2018
+    match: volby2018
     submenu:
-      - link: /komunalni-volby/
-        name: Program na radnici
-        match: radnice
-      - link: /komunalni-volby/senat
+      - link: /volby2018/
+        name: Komunální volby
+        match: komunal
+      - link: /volby2018/
         name: Senát
         match: senat
 
