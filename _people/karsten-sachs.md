@@ -11,7 +11,8 @@ description: předseda MS Svitavsko		# kratký popis, max 160 znaků
 ordpak: 
 mail:
 - karsten.sachs@pirati.cz
-mob: 
+mob:
+- +420 739 261 443
 profiles:
   github:
   facebook: 

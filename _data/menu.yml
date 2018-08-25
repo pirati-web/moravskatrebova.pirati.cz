@@ -20,7 +20,7 @@ main:
       - link: /volby2018/
         name: Komunální volby
         match: komunal
-      - link: /volby2018/
+      - link: http://www.kapitandosenatu.cz/
         name: Senát
         match: senat
   - link: /lide/
