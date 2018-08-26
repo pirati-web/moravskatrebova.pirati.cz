@@ -13,16 +13,17 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: martin.sedlak
     age: 40
     profession: OSVŠ v gastranomii, pohostinstvi, ubytovacích službách a pořádání kulturních akcí, hudebník
-    description:
+    description: ...
     party: BEZPP
   - uid: petr.matousek
     age: 39
     profession: fundraiser, prezident Šakalí hněv, sekretář SKP Slovan
+    description: ...
     party: BEZPP
   - uid: josef.forman
     age: 44
     profession: integrační inženýr
-    description: 
+    description: ...
     party: BEZPP
 tail:
   - name: Bc. Milena Mašínová
