@@ -18,12 +18,12 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: petr.matousek
     age: 39
     profession: fundraiser, prezident Šakalí hněv, sekretář SKP Slovan
-    description: ...
+    description: Hlavní důvodem jeho podpory Pirátské strany je její zaměřování se na politickou transparentnost a osobní odpovědnost politiků. Jeho zájmy jsou rodina, cestování a sport.
     party: BEZPP
   - uid: josef.forman
     age: 44
     profession: integrační inženýr
-    description: ...
+    description: Jeho zájem o digitalizaci státní správy ho přivedl k pirátům. Chtěl by se aktivně zapojit do zjednodušení administrativních procesů města, za pomoci nových technologiích.
     party: BEZPP
 tail:
   - name: Bc. Milena Mašínová
