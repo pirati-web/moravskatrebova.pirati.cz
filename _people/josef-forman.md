@@ -14,3 +14,8 @@ profiles:
   twitter:
   linkedin:
 ---
+Josef pochází z Moravské Třebové, kde stále žije.
+
+Vystudoval obor informatika a výpočetní technika na VUT v Brně, kde získal titul Ing.
+
+V pracovním životě pracoval ve společnostech Eurotel, O2, LogicaCMG, Acision, Xura. V sočasnosti pracuje jako integrační inženýr ve společnosti Mavenir.
