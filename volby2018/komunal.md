@@ -1,8 +1,8 @@
 ---
 layout: communal-elections
 title: Komunální volby v MT
-campaignCategoryUid: praha2018
-candidateListUid: radnice # uid z `_candidates/radnice.md`
+campaignCategoryUid: radnice
+candidateListUid: radnice
 ---
 
 Úvodní text. Např vysvětlení koalice, podpory.

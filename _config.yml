@@ -87,6 +87,10 @@ github:
   url: https://github.com/pirati-web/jekyll-theme-pirati/
   branch: master
 
+  #fb: https://www.facebook.com/pirati.pardubicko/
+
+fb: https://www.facebook.com/%C4%8Cesk%C3%A1-pir%C3%A1tsk%C3%A1-strana-Moravsk%C3%A1-T%C5%99ebov%C3%A1-704557476381344/
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-pirati
