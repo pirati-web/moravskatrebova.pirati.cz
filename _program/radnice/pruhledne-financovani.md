@@ -12,5 +12,6 @@ perex: >
 order: 5
 ---
 
-**Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní. Aktivní zapojení občanů do chodu města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží.**
-
+**Pro občana je dnes obtížné zjistit, kolik peněz bylo komu a za co zaplaceno. Chceme, aby obec přešla k využívání transparentních bankovních účtů a otevřeného účetnictví všude tam, kde to zákon dovoluje. Všichni tak budou moci kontrolovat, za co konkrétně se finanční prostředky obce utrácejí. Pro společnosti, ve kterých je většinovým vlastníkem obec, musí platit stejné povinnosti otevřeného hospodaření jako pro obec samotnou. Otevřený účet zprostředkovává přímo banka. Nejedná se tedy o zveřejňování jednotlivých faktur úřadem, které je ovlivnitelné.
+Moderní věk vystihuje obrovské množství informací, a proto je potřeba hledat cesty, jak těmto informacím co nejsnadněji porozumět. Přehledná grafická prezentace rozpočtu je naší povinností vůči občanům, a proto budeme rozpočty poskytovat v otevřeném formátu na webu.
+Od spolků, klubů a organizací, které dostávají příspěvky od města, budeme vyžadovat Průhledné financování. Například tj slovan dostává ročně ca. 11 miliónů korun od města a občan nezjistí, jak tj slovan tyto peníze rozděluje mezi své oddíly. My můžeme příspěvek města podmínit zveřejněním příjmů a výdajů. každá organizace, která dostává příspěvek od města, by zveřejnila tyto údaje na webu města. Občan by měl mít tu možnost zjistit si, jestli náhodou zrovna jeho sportovní odvětví nedostává méně peněz, protože jinde se peníze utrácí neúčelově. Jsou to přece jen peníze nás všech**

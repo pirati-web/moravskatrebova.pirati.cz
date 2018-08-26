@@ -12,5 +12,6 @@ perex: >
 order: 1
 ---
 
-**Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní. Aktivní zapojení občanů do chodu města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží.**
-
+**Skoncujme s politikou za zavřenými dveřmi. Základem demokracie je, kontrolovatelnost výkonných orgánů města ze strany občanů a opozice.  Pro to Chceme, aby občan věděl kdo je zodpovědný za rozhodnutí týkající se města. Chceme zveřejňovat hlasování v radě města a zápisy z jednání rady města. Chceme, aby při každém jednání rady města, měl jeden zástupce každé opoziční strany, právo zúčastnit se jako pozorovatel jednání.  Chceme transparentní výběrové řízení, od začátku až do konce. Podklady z výběrových řízení budeme postupně zveřejňovat na internetu.  
+Chceme, aby byly tisky pro zastupitele zveřejňovány v elektronické podobě. Budeme dbát na to, aby tajemník města, plně ztotožnil s naší myšlenkou vézt úřad transparentně. 
+Komunální politik České Pirátské strany, se dobrovolně zavazuje k transparentnosti ve výkonu funkce. Naši zastupitelé budou vézt veřejný kalendář kde budou zapisovat schůze, pracovní termíny a uvádět čas pro kontakt s veřejností. Budeme zapisovat schůze, které souvisejí s výkonem funkce, do lobbistického registru.**
