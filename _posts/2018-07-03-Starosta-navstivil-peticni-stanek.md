@@ -4,7 +4,7 @@ category: blog
 tags: Moravská Třebová, petice, starosta
 layout: post
 title: Starosta navštívil petiční stánek
-author: Martin Sedlák
+author: Petr Matoušek
 authorId: 
 image: posts/stanek_namesti.jpg
 ---
