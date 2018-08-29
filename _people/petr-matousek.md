@@ -16,7 +16,7 @@ profiles:
 ---
 Petr pochází a žije ve městě Moravská Třebová.
 
-Vystudoval gymnázium v Moravské Třebové a celý profesní život se pohybuje v oblasti obchodu. V současnosti pracuje jako obchodní referent v mezinárodní společnosti.
+Vystudoval gymnázium v Moravské Třebové a celý profesní život se pohybuje v oblasti obchodu. V současnosti pracuje jako fundraiser v Charitě Moravská Třebová.
 
 Angažuje se v aktivitách souvisejících se sportem. Je sekretářem fotbalového oddílu SKP Slovan Moravská Třebová a prezidentem futsalového oddílu FK Slovan Šakalí hněv Moravská Třebová.
 
