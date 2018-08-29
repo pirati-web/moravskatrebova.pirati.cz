@@ -36,7 +36,7 @@ tail:
     party: BEZPP
   - name: Jan Trefil
     age: 25
-    profession: mistr ve výrobě
+    profession: vedoucí kontroly v nástrojárně
     party: BEZPP
   - name: David Vykydal
     age: 19
