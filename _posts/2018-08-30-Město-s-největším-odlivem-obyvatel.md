@@ -1,7 +1,7 @@
 ---
 date: 2018-08-30
 category: blog
-tags: Moravská Třebová, Kultura
+tags: Moravská Třebová obyvatelstvo demografie
 layout: post
 title: Město s největším odlivem obyvatel
 author: Karsten Sachs
