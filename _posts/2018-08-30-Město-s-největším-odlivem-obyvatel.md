@@ -6,7 +6,7 @@ layout: post
 title: Město s největším odlivem obyvatel
 author: Karsten Sachs
 authorId: 
-image: posts/Graf_odliv_obcanu.jpg
+image: posts/graf_odliv_obcanu.jpg
 ---
 
 Město se nám nezadržitelně vylidňuje. Minulé administrativy nenašly recept, jak tento odliv obyvatel zastavit. Od roku 2010 ubylo 742 obyvatel. To je více lidí než žije např. v Linharticích. Je to největší úbytek obyvatelstva v Pardubickém kraji.
