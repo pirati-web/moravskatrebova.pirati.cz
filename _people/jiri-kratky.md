@@ -3,9 +3,7 @@ uid: jiri.kratky
 name: Jiří Krátký          	# běžně používáné jméno
 fullname: Jiří Krátký		# jméno s tituly etc.
 category:              	    # kategorie: rp, praha, vary, hradec, jmk, senat
-- pak
-- svitavsko
-- mpsvitavsko
+- clenove
 img: people/jiri-kratky.jpg           # 165 x 220
 description: Člen Pirátské strany, kandidát do senátu # kratký popis, max 160 znaků
 ordpak: 

@@ -25,75 +25,75 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: integrační inženýr
     description: Jeho zájem o digitalizaci státní správy ho přivedl k pirátům. Chtěl by se aktivně zapojit do zjednodušení administrativních procesů města, za pomoci nových technologiích.
     party: BEZPP
-tail:
-  - name: Bc. Milena Mašínová
+  - uid: milena.masinova
     age: 31
     profession: manažer nevýrobních procesů
     party: BEZPP
-  - name: Jan Filipi
+  - uid: jan.filipi
     age: 39
     profession: SAP CRM konzultant
     party: BEZPP
-  - name: Jan Trefil
+  - uid: jan.trefil
     age: 25
     profession: vedoucí kontroly v nástrojárně
     party: BEZPP
-  - name: David Vykydal
+  - uid: david.vykydal
     age: 19
     profession: student
     party: BEZPP
-  - name: Mgr. Magda Mlejnková
+  - uid: magda.mlejnkova
     age: 39
     profession: pedagožka
     party: BEZPP
-  - name: Miroslav Severa
+  - uid: miroslav.severa
     age: 47
     profession: elektrotechnik, hudebník
     party: BEZPP
-  - name: David Smetana
+  - uid: david.smetana
     age: 29
     profession: pracovník v gastronomii, hudebník
     party: BEZPP
-  - name: Libor Koutný
+  - uid: libor.koutny
     age: 41
     profession: manažer prodeje
     party: BEZPP
-  - name: Renata Nečasová
+  - uid: renata.necasova
     age: 51
     profession: pedagožka
     party: BEZPP
-  - name: Dalibor Rada
+  - uid: dalibor.rada
     age: 24
     profession: dělník ve výrobě, hudební promotér
     party: BEZPP
-  - name: Lucie Sachs, Dis.
+  - uid: lucie.sachs
     age: 32
     profession: pedagogický pracovník
     party: BEZPP
-  - name: Tomáš Kroupa
+  - uid: tomas.kroupa
     age: 34
     profession: seřizovač
     party: BEZPP
-  - name: Leoš Knápek
+  - uid: leos.knapek
     age: 28
     profession: nástrojář
     party: BEZPP
-  - name: Aleš Navrátil
+  - uid: ales.navratil
     age: 45
     profession: hudebník
     party: BEZPP
-  - name: Jiří Matoušek 
+  - uid: jiri.matousek 
     age: 45
     profession: mistr výroby a montáží
     party: BEZPP
-  - name: Dana Vaníčková
+  - uid: dana.vanickova
     age: 41
     profession: pedagogický pracovník
     party: BEZPP
-  - name: Radmila Sachsová
+  - uid: radmila.sachsova
     age: 67
     profession: důchodce
     party: BEZPP
+tail:
 
 note: # poznámka pod kanidátku
 ---

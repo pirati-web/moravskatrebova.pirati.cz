@@ -3,9 +3,7 @@ uid: karsten.sachs
 name:     Karsten Sachs      		# běžně používáné jméno
 fullname: Karsten Sachs		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- pak
-- svitavsko 
-- mpsvitavsko
+- clenove
 img: people/karsten-sachs.jpg           # 165 x 220
 description: předseda MS Svitavsko		# kratký popis, max 160 znaků
 ordpak: 
