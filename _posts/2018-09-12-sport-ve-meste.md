@@ -8,7 +8,7 @@ author: Petr Matoušek
 authorId: 
 image: posts/sport.jpg
 ---
-Město Moravská Třebová má ze zákona povinnost vytvářet vhodné podmínky pro sport a sportovní volnočasové aktivity s důrazem na výchovu mládeže. A protože si společně myslíme, že v Moravské Trebové dřímá obrovský potenciál, bude naší hlavní snahou měnit vhodnými kroky status tohoto města z periferie na sportovní centrum regionu. Chceme měnit zavedené pohledy a aktivně vytváret nové možnosti a príležitosti. MoravskáTrebová totiž musí splňovat základní parametry občanské vybavenosti a být konkurenceschopná s městy podobné velikosti v regionu.
+Město Moravská Třebová má ze zákona povinnost vytvářet vhodné podmínky pro sport a sportovní volnočasové aktivity s důrazem na výchovu mládeže. A protože si společně myslíme, že v Moravské Třebové dřímá obrovský potenciál, bude naší hlavní snahou měnit vhodnými kroky status tohoto města z periferie na sportovní centrum regionu. Chceme měnit zavedené pohledy a aktivně vytváret nové možnosti a príležitosti. MoravskáTrebová totiž musí splňovat základní parametry občanské vybavenosti a být konkurenceschopná s městy podobné velikosti v regionu.
 
 VÝKONNOSTNÍ SPORT
 
