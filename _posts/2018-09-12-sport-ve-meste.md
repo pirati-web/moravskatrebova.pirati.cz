@@ -1,7 +1,7 @@
 ---
 date: 2018-09-12
 category: blog
-tags: Moravská Třebová, sport
+tags: Moravská Třebová sport
 layout: post
 title: Sport ve městě
 author: Petr Matoušek
