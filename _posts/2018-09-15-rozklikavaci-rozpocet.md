@@ -6,7 +6,7 @@ layout: post
 title: Jak má vypadat rozklikávací rozpočet?
 author: Karsten Sachs
 authorId: 
-image: posts/agence-olloweb-520914-unsplash.jpg
+image: posts/lupa.jpg
 ---
 Jsme strana, která chce víc informovat občany města a zároveň je více zapojit do rozhodovacích procesů města. K tomu patří i to, čemu se dneska říká, rozklikávací rozpočet, který je součástí našich programových priorit otevřená radnice a průhledné financování. 
 
