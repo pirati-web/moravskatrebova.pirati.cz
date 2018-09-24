@@ -11,7 +11,8 @@ image: posts/graf_byty.jpg
 S pořízením bydlení je v Moravské Třebové problém. Největší problém je sehnat byt k pronájmu. Velice dobrá situace pro pronajímatele nemovitostí, kteří si mohou mezi zájemci vybírat. Velice špatná situace pro obyvatele tohoto města, obzvlášť pro občany do 30 let, pro ně je velice obtížné vůbec sehnat byt k pronájmu. 
 Město vlastní plochy, které jsou vhodné pro výstavbu nových bytových domů. V územním plánu jsou pro tento účel již vyhrazené plochy, město ale tyto plochy nenabízí investorům. Za poslední dvě volební období, se v Moravské Třebové byty nestaví a výsledkem je bytová krize. V bytové výstavbě zaostáváme za zbytkem kraje, viz statistika výstavby bytů:
 
-{% asset 'posts/graf_byty.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' %} Dokončené byty od 2010, zdroj ČSÚ
+{% asset 'posts/graf_byty.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' %} 
+Dokončené byty od 2010, zdroj ČSÚ
 
 
 Město se celé dvě volební období soustředilo na pozemky v lokalitě Strážnického, která byla pro rozšíření zcela nevhodná, o tom ale někdy jindy, lokalita Strážnického je na vlastní příběh. Pozemky pro výstavbu rodinných domů nám ale v současné době nepomůžou, možnosti mladého páru dosáhnout na hypotéku, se výrazně zhoršily a budou se na přehřátém trhu s nemovitostmi, ještě zhoršovat. Je nejvyšší čas začít s touto situací něco dělat, bez práce a bydlení nám všichni mladí utečou jinam. 
