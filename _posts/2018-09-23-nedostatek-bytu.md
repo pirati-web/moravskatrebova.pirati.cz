@@ -1,5 +1,5 @@
 ---
-date: 2018-09-24
+date: 2018-09-23
 category: blog
 tags: Moravská Třebová bydlení
 layout: post
