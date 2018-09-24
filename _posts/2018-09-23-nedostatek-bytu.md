@@ -8,7 +8,8 @@ author: Karsten Sachs
 authorId: 
 image: posts/graf_byty.jpg
 ---
-S pořízením bydlení je v Moravské Třebové problém. Největší problém je sehnat byt k pronájmu. Velice dobrá situace pro pronajímatele nemovitostí, kteří si mohou mezi zájemci vybírat. Velice špatná situace pro obyvatele tohoto města, obzvlášť pro občany do 30 let, pro ně je velice obtížné vůbec sehnat byt k pronájmu. 
+S pořízením bydlení je v Moravské Třebové problém. Největší problém je sehnat byt k pronájmu. Velice dobrá situace pro pronajímatele nemovitostí, kteří si mohou mezi zájemci vybírat. Velice špatná situace pro obyvatele tohoto města, obzvlášť pro občany do 30 let, pro ně je velice obtížné vůbec sehnat byt k pronájmu.
+
 Město vlastní plochy, které jsou vhodné pro výstavbu nových bytových domů. V územním plánu jsou pro tento účel již vyhrazené plochy, město ale tyto plochy nenabízí investorům. Za poslední dvě volební období, se v Moravské Třebové byty nestaví a výsledkem je bytová krize. V bytové výstavbě zaostáváme za zbytkem kraje, viz statistika výstavby bytů:
 
 {% asset 'posts/graf_byty.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' %} 
