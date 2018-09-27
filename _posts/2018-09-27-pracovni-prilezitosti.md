@@ -18,8 +18,8 @@ Zdroj mpsv.cz
 
 Statistiky nám ukazují, že Moravská Třebová je jediné město pardubického kraje nad 8 000 obyvatel, které nabízí míň pracovních míst, než má uchazečů o práci. Máme také nejméně podnikatelských subjektů na obyvatele.
 
-{% asset 'posts/graf_podnikatele3.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' %}
-{% asset 'posts/graf_podnikatele2.jpg' magick:resize='751x422^' magick:gravity='center' magick:crop='751x422+0+0' %}
+
+{% asset 'posts/graf_podnikatele.jpg' magick:resize='751x622^' magick:gravity='center' magick:crop='751x622+0+0' %}
 Počet obyvatel na podnikatelský subjekt, zdroj ČSU
 
 Tento stav městu značně ubližuje, ve městě není velká kupní síla. Je to vidět i na prázdných obchodech na náměstí, kde by před 15 lety nikoho nenapadlo, že obchod na náměstí nebude obsazený obchodníkem. Nedostatek konkurence u nás podporuje trvale nízké mzdy. Nedostatečná diverzita podnikatelského prostředí způsobuje odliv kvalifikované pracovní síly. Tato závislost na jednom podnikatelském odvětví je navíc strašně nebezpečná.  
