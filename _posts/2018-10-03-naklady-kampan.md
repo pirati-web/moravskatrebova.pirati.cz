@@ -6,7 +6,7 @@ layout: post
 title: Náklady na kampaň v Moravské Třebové
 author: Karsten Sachs
 authorId: 
-image: posts/noviny_stanek.jpg
+image: posts/noviny_stanek.JPG
 ---
 Každá kampaň něco stojí. Protože to bereme s transparencí vážně a naše návrhy aplikujeme nejdříve na sebe, zveřejňujeme zde naše náklady na kampaň do komunálních voleb 2018 v Moravské Třebové.
 
