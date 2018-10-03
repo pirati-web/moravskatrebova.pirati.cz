@@ -1,7 +1,7 @@
 ---
 date: 2018-10-03
 category: blog
-tags: Moravská Třebová uklid
+tags: Moravská Třebová transparence naklady kampan
 layout: post
 title: Náklady na kampaň v Moravské Třebové
 author: Karsten Sachs
