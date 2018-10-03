@@ -10,6 +10,6 @@ image: posts/noviny_stanek.JPG
 ---
 Každá kampaň něco stojí. Protože to bereme s transparencí vážně a naše návrhy aplikujeme nejdříve na sebe, zveřejňujeme zde naše náklady na kampaň do komunálních voleb 2018 v Moravské Třebové.
 
-{% asset 'posts/kampan_naklady.jpg' magick:resize='751x522^' magick:gravity='center' magick:crop='751x522+0+0' %}
+{% asset 'posts/kampan_naklady.jpg' magick:resize='800x522^' magick:gravity='center' magick:crop='800x522+0+0' %}
 
 Na položky Pirátské Listy a Merchendise ještě nemáme přesně vyčíslené náklady, ale náš odhad by měl být poměrně přesný. Po volbách budeme mít přesné čísla, které zveřejníme. 
