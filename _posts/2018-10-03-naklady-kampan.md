@@ -12,4 +12,4 @@ Každá kampaň něco stojí. Protože to bereme s transparencí vážně a naš
 
 {% asset 'posts/kampan_naklady.jpg' magick:resize='920x562^' magick:gravity='center' magick:crop='920x562+0+0' %}
 
-Na položky Pirátské Listy a Merchendise ještě nemáme přesně vyčíslené náklady, ale náš odhad by měl být poměrně přesný. Po volbách budeme mít přesné čísla, které zveřejníme. 
+Na položky Pirátské Listy a Merchendise ještě nemáme přesně vyčíslené náklady, ale náš odhad by měl být poměrně přesný. Po volbách budeme mít přesné čísla, která zveřejníme. 
