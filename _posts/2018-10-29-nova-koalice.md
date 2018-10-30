@@ -1,7 +1,7 @@
 ---
 date: 2018-10-29
 category: blog
-tags: Moravská Třebová volby koalice
+tags: Moravská Třebová volby2018 koalice
 layout: post
 title: Nová koalice v Moravské Třebové
 author: Karsten Sachs, Petr Matoušek
