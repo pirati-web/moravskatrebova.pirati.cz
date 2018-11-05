@@ -26,4 +26,4 @@ Celý navržený program:
 13.	Závěr
 
 Podkladové materiály zde:[kompletní materiály k zastupitelstvu ve formátu zip][1]  
-[1]{{ '/assets/181105.zip' | relative_url }}
+[1]: {{ '/assets/181105.zip' | relative_url }}
