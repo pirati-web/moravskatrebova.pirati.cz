@@ -26,6 +26,6 @@ Celý navržený program:
 13.	Závěr
 
 Podkladové materiály zde:
-* [Kompletní podklady k zastupitelstvu 05112018][1] 
+* [Kompletní podklady k zastupitelstvu 05.11.2018 ke stažení ve formátu ZIP][1] 
 
 [1]: {{ '/assets/181105.zip' | relative_url }}
