@@ -28,4 +28,4 @@ Celý navržený program:
 Podkladové materiály zde:
 * [Kompletní podklady k zastupitelstvu 05112018][1] 
 
-[1]: {{ '/assets/attachments/181105.zip' | relative_url }}
+[1]: {{ '/assets/181105.zip' | relative_url }}
