@@ -1,5 +1,5 @@
 ---
-date: 2018-11-05
+date: 2018-11-04
 category: blog
 tags: Moravská Třebová zastupitelstvo
 layout: post
